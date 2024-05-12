@@ -11,8 +11,8 @@ This is the Brainfuck interpreter written in Go. I build this project while lear
 To running this interpreter, First clone the Repository and navigate to the `Brainfuck-in-go` directory in your terminal and execute the following command:
 
 ```bash
-git clone https://github.com/kmr-ankitt/Brainfuck-in-Go/
-cd Brainfuck-in-Go
+git clone https://github.com/kmr-ankitt/Brainfuck-in-go/
+cd Brainfuck-in-go
 ```
 
 ## Usage
