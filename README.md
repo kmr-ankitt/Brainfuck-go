@@ -1,4 +1,4 @@
-# Brainfuck written in Go
+# Brainfuck Interpreter written in Go
 
 This is the Brainfuck interpreter written in Go. I build this project while learning Golang.
 
@@ -11,8 +11,8 @@ This is the Brainfuck interpreter written in Go. I build this project while lear
 To running this interpreter, First clone the Repository and navigate to the `Brainfuck-in-go` directory in your terminal and execute the following command:
 
 ```bash
-git clone https://github.com/kmr-ankitt/Brainfuck-in-go/
-cd Brainfuck-in-go
+git clone https://github.com/kmr-ankitt/Brainfuck-go/
+cd Brainfuck-go
 ```
 
 ## Usage
